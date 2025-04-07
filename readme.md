@@ -1,3 +1,3 @@
 Proyecto de Ejemplo
 Descripción
-Este es un proyecto de demostración para aprender a usar Git y GitHub. Incluye ejemplos básicos de código y documentación para ilustrar el flujo de trabajo con control de versiones.
+Este repositorio sirve como plataforma educativa para dominar Git y GitHub, presentando casos prácticos y documentación detallada que ilustran los flujos de trabajo profesionales en sistemas de control de versiones. A través de ejemplos concretos, los usuarios podrán comprender los conceptos fundamentales y mejores prácticas para la gestión eficiente del código fuente en entornos colaborativos.
